@@ -17,4 +17,7 @@
 	     * [输出全部分类](theme/display/category/all.md)
 		 * [自定义分类页面](theme/display/category/custom.md)
 	  * [输出标签](theme/display/tag.md)
+	  * [评论](theme/comment/index.md)
+	     * [显示评论框](theme/comment/form.md)
+		 * [显示评论内容](theme/comment/content.md)
 	  * [输出在后台可以设置的内容](theme/display/options.md)
