@@ -1,8 +1,9 @@
-# Hello World
+## Hello World
 
 今天正式开始，手把手教你做WP主题，包教包懂包学会。
 
-1. 在WP的主题目录 `wp-content/themes/` 下创建一个文件夹 `icaiyun` ，目录名就是主题的名字
+
+在WP的主题目录 `wp-content/themes/` 下创建一个文件夹 `icaiyun` ，目录名就是主题的名字
 2. 在 `icaiyun` 目录下，创建 `index.php` 文件：
 ```php
 <?php
