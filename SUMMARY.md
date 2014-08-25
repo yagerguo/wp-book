@@ -20,5 +20,5 @@
        * [评论](theme/comment/index.md)
            * [显示评论框](theme/comment/form.md)
            * [显示评论内容](theme/comment/content.md)
-       * [输出在后台可以设置的内容](theme/display/options.md)
+       * [前台输出在后台可以配置的内容](theme/display/options.md)
 
